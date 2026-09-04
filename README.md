@@ -365,7 +365,7 @@ A possible successful path learned by the agent is:
 Right → Right → Up → Up → Up → Right
 ```
 
-## Result
+## Result:
 
 The SARSA control algorithm was successfully implemented using the Gymnasium FrozenLake environment. The agent learned Q-values through repeated interaction with the environment and gradually learned a policy to move from start state 12 to goal state 3 while avoiding the holes.
 
